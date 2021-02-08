@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5f1f0d310848c7220679b22e"
+  },
+  "firstName": "Jonathan",
+  "lastName": "Jimenez",
+  "email": "jta1223@gmail.com",
+  "jobTitle": "Desarrollador Web",
+  "twitter": "jta1223"
+},{
+  "_id": {
+    "$oid": "5f1f2638b0d0739014cce977"
+  },
+  "firstName": "Lizeth Vanessa",
+  "lastName": "Ortiz",
+  "email": "ortizvane126@gmail.com",
+  "jobTitle": "Contadora",
+  "twitter": "liz126"
+}]
