@@ -1,5 +1,5 @@
 const config = {
-  API_URL: 'http://desarrolloiot.sytes.net:9001'
+  API_URL: 'https://backend-platzi-badges.herokuapp.com'
 };
 
 module.exports = { config };
